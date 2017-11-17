@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "A test post"
+date:   2017-11-15 15:34:40 -0500
+categories: 
+---
+This is a test post for the Programming Historian tutorial on Jekyll with GitHub Pages. 
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
